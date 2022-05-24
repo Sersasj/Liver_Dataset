@@ -5,6 +5,7 @@ CARVALHO, M. F. T.; SILVA JR., S. A.; BERNARDO, C. C. O.; FLORES, F. C.; PERLES,
 | ------ | ------ | ------ |
 |Control| 1024 x 768| 60 |
 |TW| 1024 x 768| 60 |
+
 In the Control Folder
 Images 1...10 are from animal 1\
 Images 11...20 are from animal 2\
