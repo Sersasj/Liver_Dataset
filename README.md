@@ -1,4 +1,6 @@
 # Liver_Dataset
+If you use this dataset in your paper, please cite this reference: 
+
 CARVALHO, M. F. T.; SILVA JR., S. A.; BERNARDO, C. C. O.; FLORES, F. C.; PERLES, J. V. C. M.; NELISIS, J. Z.; COSTA, Y. M. G. "Cancer identification in Walker 256 tumor model exploring texture properties taken from microphotograph of rats liver". Paper under review by Algorithms Journal, details are going to be disclosed as the paper is accepted and published.
 # Details
 | Class | Image Dimension | Number of samples |
